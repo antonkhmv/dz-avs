@@ -1,3 +1,0 @@
-Программа создает новый файл и записывает туда текст.
-
-[https://www.vkremez.com/2017/04/fasm-flat-assembler-also-known-as-fasm.html]
