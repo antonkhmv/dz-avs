@@ -8,14 +8,17 @@
   Простая диалоговая программа 
 
 * **Код**
+
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/in1.png)
 
 * **Вывод**
+
   При запуске выводит 'May I introduce myself?'
   
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out1_1.png)
   
   Если нажать 'Да', то программа выведет 'Hi! I'm the example program!'
+  
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out1_2.png)
 
   [\[Источник\]](https://flatassembler.net/download.php) 
