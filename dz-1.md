@@ -1,16 +1,27 @@
 # ДЗ 1
 
+### Антон Хомяков БПИ191
+
+
 ## Программа 1
 
-### Программа создает новый файл и записывает туда текст.
+### 
 
-При запуске программы
+## Программа 2
 
-![in1](https://github.com/antonkhmv/dz-avs/blob/master/img/in1.png)
+* **Описание** 
+  Программа создает новый файл и записывает туда текст.
 
-Появляется файл "text.txt" с текстом "TEST"
+* **Код**
 
-![out1](https://github.com/antonkhmv/dz-avs/blob/master/img/out1.png)
+  ![in](https://github.com/antonkhmv/dz-avs/blob/master/img/in2.png)
 
+  При запуске программы
 
-[https://www.vkremez.com/2017/04/fasm-flat-assembler-also-known-as-fasm.html]
+* **Вывод**
+
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out2.png)
+
+  Появляется файл "text.txt" с текстом "TEST"
+
+[\[Источник\]](https://www.vkremez.com/2017/04/fasm-flat-assembler-also-known-as-fasm.html)
