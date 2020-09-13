@@ -40,7 +40,7 @@
 
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out2.png)
 
-  Появляется файл в папке с программой"text.txt" с текстом "TEST"
+  Появляется файл "text.txt" в папке с программой и текстом "TEST"
 
   [\[Источник\]](https://www.vkremez.com/2017/04/fasm-flat-assembler-also-known-as-fasm.html)
   (под загаловком 'VI. Write a file')
@@ -89,6 +89,7 @@
 * **Вывод** 
   
    При запуске программы открывается окно с параметрами
+   
    (здесь Caption = 'Ошибка', Message = 'Недостаточно места на диске', Icon = Error)
    
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out4_1.png)
@@ -125,7 +126,7 @@
   
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_1.png)
   
-  попробуем изменить параметры, отвечающее за расположение вершин квадрата и цвета градиента.
+  попробуем изменить параметры, отвечающие за расположение вершин квадрата и цвета градиента.
   
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_2.png)
   
