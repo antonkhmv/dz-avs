@@ -4,8 +4,8 @@
 ## Программа 1
 
 * **Описание** 
-  Простая диалоговая программа
-  
+
+  Простая диалоговая программа 
 
 * **Код**
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/in1.png)
@@ -16,7 +16,7 @@
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out1_1.png)
   
   Если нажать 'Да', то программа выведет 'Hi! I'm the example program!'
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out1_1.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out1_2.png)
 
   [\[Источник\]](https://flatassembler.net/download.php) 
   (при скачивании программы, в папке "EXAMPLES")
