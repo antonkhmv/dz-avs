@@ -35,6 +35,7 @@
   ![in](https://github.com/antonkhmv/dz-avs/blob/master/img/in2.png)
 
 * **Вывод** 
+
   При запуске программы
 
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out2.png)
@@ -134,7 +135,7 @@
   
   при запуске теперь вместо квадрата вращается такая фигура с несколько цветами
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_3.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_4.png)
   
   [\[Источник\]](https://flatassembler.net/download.php) 
   (при скачивании программы, в папке "EXAMPLES/OPENGL")
