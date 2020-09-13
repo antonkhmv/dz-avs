@@ -40,7 +40,7 @@
 
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out2.png)
 
-  Появляется файл "text.txt" с текстом "TEST"
+  Появляется файл в папке с программой"text.txt" с текстом "TEST"
 
   [\[Источник\]](https://www.vkremez.com/2017/04/fasm-flat-assembler-also-known-as-fasm.html)
   (под загаловком 'VI. Write a file')
@@ -57,11 +57,11 @@
 
 * **Вывод** 
   
-  При запуске программы открывается окно со слайером
+  При запуске программы открывается окно со слайдером
 
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out3_1.png)
   
-  при передвижении слайдера прозрачность изменяется
+  при передвижении слайдера прозрачность окна изменяется
   
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out3_2.png)
   
@@ -133,7 +133,7 @@
   
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_3.png)
   
-  при запуске теперь вместо квадрата вращается такая фигура с несколько цветами
+  при запуске теперь вместо квадрата вращается такая фигура с несколько другими цветами
   
   ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_4.png)
   
