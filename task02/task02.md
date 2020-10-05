@@ -19,4 +19,4 @@
 ## Тест 5
 [img](https://github.com/antonkhmv/dz-avs/blob/master/task02/img/5.png)
 
-[Назад](https://github.com/antonkhm/dz-avs/blob/master/README.md) 
+[Назад](https://github.com/antonkhmv/dz-avs/blob/master/README.md) 
