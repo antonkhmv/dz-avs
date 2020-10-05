@@ -2,4 +2,4 @@
 
 ### Антон Хомяков БПИ191
 
-### [ДЗ 1 (посл.)](https://github.com/antonkhmv/dz-avs/blob/master/dz-1.md)
+### [ДЗ 1 (посл.)](https://github.com/antonkhmv/dz-avs/blob/master/task01/dz-1.md)

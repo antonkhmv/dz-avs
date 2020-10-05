@@ -9,17 +9,17 @@
 
 * **Код**
 
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/in1.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/in1.png)
 
 * **Вывод**
 
   При запуске выводит 'May I introduce myself?'
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out1_1.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out1_1.png)
   
   Если нажать 'Да', то программа выведет 'Hi! I'm the example program!'
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out1_2.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out1_2.png)
 
   [\[Источник\]](https://flatassembler.net/download.php) 
   (при скачивании программы, в папке "EXAMPLES/HELLO")
@@ -32,13 +32,13 @@
 
 * **Код**
 
-  ![in](https://github.com/antonkhmv/dz-avs/blob/master/img/in2.png)
+  ![in](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/in2.png)
 
 * **Вывод** 
 
   При запуске программы
 
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out2.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out2.png)
 
   Появляется файл "text.txt" в папке с программой и текстом "TEST"
 
@@ -53,25 +53,25 @@
 
 * **Код**
 
-  ![in](https://github.com/antonkhmv/dz-avs/blob/master/img/in3.png)
+  ![in](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/in3.png)
 
 * **Вывод** 
   
   При запуске программы открывается окно со слайдером
 
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out3_1.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out3_1.png)
   
   при передвижении слайдера прозрачность окна изменяется
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out3_2.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out3_2.png)
   
   изменим выделеное значение на 40 (было 5)
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out3_3.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out3_3.png)
   
   длина слайдера изменилась
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out3_4.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out3_4.png)
   
   [\[Источник\]](https://flatassembler.net/examples.php)
   ('Transparent window')
@@ -84,7 +84,7 @@
 
 * **Код**
 
-  ![in](https://github.com/antonkhmv/dz-avs/blob/master/img/in4.png)
+  ![in](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/in4.png)
 
 * **Вывод** 
   
@@ -92,20 +92,20 @@
    
    (здесь Caption = 'Ошибка', Message = 'Недостаточно места на диске', Icon = Error)
    
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out4_1.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out4_1.png)
   
   при нажатии на ОК появляется диалоговое окно
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out4_2.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out4_2.png)
   
   введм другие параметры
   (Caption = 'Вопрос', Message = 'Сколько будет 2+2?', Icon = Question)
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out4_3.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out4_3.png)
   
   получаем  
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out4_4.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out4_4.png)
   
   [\[Источник\]](https://flatassembler.net/download.php) 
   (при скачивании программы, в папке "EXAMPLES/DIALOG")
@@ -118,25 +118,25 @@
 
 * **Код**
 
-  ![in](https://github.com/antonkhmv/dz-avs/blob/master/img/in5.png)
+  ![in](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/in5.png)
 
 * **Вывод** 
 
   При запуске программы открывается окно
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_1.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out5_1.png)
   
   попробуем изменить параметры, отвечающие за расположение вершин квадрата и цвета градиента.
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_2.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out5_2.png)
   
   новые значения этих прараметров
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_3.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out5_3.png)
   
   при запуске теперь вместо квадрата вращается такая фигура с несколько другими цветами
   
-  ![out](https://github.com/antonkhmv/dz-avs/blob/master/img/out5_4.png)
+  ![out](https://github.com/antonkhmv/dz-avs/blob/master/task01/img/out5_4.png)
   
   [\[Источник\]](https://flatassembler.net/download.php) 
   (при скачивании программы, в папке "EXAMPLES/OPENGL")
