@@ -141,4 +141,4 @@
   [\[Источник\]](https://flatassembler.net/download.php) 
   (при скачивании программы, в папке "EXAMPLES/OPENGL")
   
-  
+  [Назад](https://github.com/antonkhmv/dz-avs/blob/master/README.md)
