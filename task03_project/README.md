@@ -10,4 +10,4 @@ https://github.com/antonkhmv/dz-avs/blob/master/task03_project/Поясните�
 
 ## Исполнительный файл
 https://github.com/antonkhmv/dz-avs/releases/tag/1
-(по ссылке proj скачиваетя файл proj.EXE) 
+(по ссылке proj.EXE скачиваетя файл proj.EXE) 
