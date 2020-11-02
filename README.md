@@ -2,6 +2,8 @@
 
 ### Антон Хомяков БПИ191
 
-### [Задание 2 (посл.)](https://github.com/antonkhmv/dz-avs/blob/master/task02/task02.md)
+### [Задание 3 - Микропроект (посл.)](https://github.com/antonkhmv/dz-avs/tree/master/task03_project)
 
-### [Задание 1](https://github.com/antonkhmv/dz-avs/blob/master/task01/task01.md)
+### [Задание 2](https://github.com/antonkhmv/dz-avs/tree/master/task02)
+
+### [Задание 1](https://github.com/antonkhmv/dz-avs/tree/master/task01)
