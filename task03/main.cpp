@@ -102,7 +102,7 @@ void print_map() {
             }
             else
             {
-                SetConsoleTextAttribute(hConsole, color(i, j) + 6);
+                SetConsoleTextAttribute(hConsole, color(i, j));
                 cout << map[i][j];
             }
         }
@@ -178,8 +178,8 @@ void find_X(int id) {
             for (int i = 0; i < free_space; ++i) {
                 int a, b;
                 do {
-                    a = x * block_h + abs(rand() % block_h);
-                    b = y * block_w + abs(rand() % block_w);
+                    a = x * block_h + (rand() % block_h);
+                    b = y * block_w + (rand() % block_w);
                     if (map[a][b] == 'X') {
                         SetConsoleTextAttribute(hConsole, sea_color);
                         cout << "group #" << id+1 << " found the treasure!" << endl;
@@ -239,6 +239,7 @@ int main() {
 
     SetConsoleTextAttribute(hConsole, sea_color);
     cout << "Done";
+    getchar();
     getchar();
     return 0;
 }
