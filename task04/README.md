@@ -28,24 +28,24 @@
 группе также выделяются цветом и буквой P. Сокровище лежит в клетке, обозначенной X и выделенной красным.
 
 ## Исходный код
-[main.cpp](https://github.com/antonkhmv/dz-avs/blob/master/task03/main.cpp)
+[main.cpp](https://github.com/antonkhmv/dz-avs/blob/master/task04/main.cpp)
 
 ## Тест 1
 Входные данные: размер каждого поля: 3x10, количество груп: 3, размер группы: 4
 
-![img](https://github.com/antonkhmv/dz-avs/blob/master/task03/img/1.png)
+![img](https://github.com/antonkhmv/dz-avs/blob/master/task04/img/1.png)
 
 ## Тест 2
 Входные данные: размер каждого поля: 6x10, количество груп: 4, размер группы: 5
 
-![img](https://github.com/antonkhmv/dz-avs/blob/master/task03/img/2.png)
+![img](https://github.com/antonkhmv/dz-avs/blob/master/task04/img/2.png)
 
 ## Тест 3
 Входные данные: размер каждого поля: 4x10, количество груп: 4, размер группы: 5
 
-![img](https://github.com/antonkhmv/dz-avs/blob/master/task03/img/3.png)
+![img](https://github.com/antonkhmv/dz-avs/blob/master/task04/img/3.png)
 
 ## Тест 4
 Входные данные: размер каждого поля: 6x10, количество груп: 5, размер группы: 8
 
-![img](https://github.com/antonkhmv/dz-avs/blob/master/task03/img/4.png)
+![img](https://github.com/antonkhmv/dz-avs/blob/master/task04/img/4.png)
