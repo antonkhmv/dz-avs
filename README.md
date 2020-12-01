@@ -2,7 +2,9 @@
 
 ### Антон Хомяков БПИ191
 
-### [Задание 3 (посл.)](https://github.com/antonkhmv/dz-avs/tree/master/task03)
+### [Задание 4 (посл.)](https://github.com/antonkhmv/dz-avs/tree/master/task04)
+
+### [Задание 3](https://github.com/antonkhmv/dz-avs/tree/master/task03)
 
 ### [Микропроект](https://github.com/antonkhmv/dz-avs/tree/master/task03_project)
 
