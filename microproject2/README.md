@@ -1,6 +1,6 @@
-### Микропроект
+### Микропроект 2 
 
-### Хомяков Антон БПИ191
+### Хомяков Антон БПИ191 Вариант 4.
 
 ## Исходный код
 https://github.com/antonkhmv/dz-avs/blob/master/microproject2/main.cpp
